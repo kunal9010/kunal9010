@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @kunal
+- 👀 I’m interested in Data Science And Data Analyst...
+- 🌱 I’m currently learning Basic To Advanced Excel, Python, Basic Of R, SQL, Tableau, Hadoop, SAS, Power BI, Apache Spark, Azure, Artificial Intelligence, Machine Learning.etc. ...
+- 📫 How to reach me ...
+
+<!---
+kunal9010/kunal9010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
